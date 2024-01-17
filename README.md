@@ -23,12 +23,6 @@
 </p>
   
 ---  
-  
-<br>
-
-### Demo 🎥
-
-<br>
 
 <h2 align="center">Setup 🛠</h2>  
   
