@@ -18,7 +18,7 @@
      <br />
      <img atl="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white">
      <img atl="Mongoose" src="https://img.shields.io/badge/-Mongoose-brown?logo=mongoose&style=for-the-badge&logoColor=white">
-     <img alt="tailwindcss" src="https://img.shields.io/badge/-tailwind-black?logo=tailwindcss&style=for-the-badge">
+     <img alt="tailwindcss" src="https://img.shields.io/badge/-tailwind-yellow?logo=tailwindcss&style=for-the-badge">
     
 </p>
   
