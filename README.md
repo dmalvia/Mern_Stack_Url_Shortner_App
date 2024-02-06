@@ -35,7 +35,7 @@
 ### Installation :
 
 - Step 1: Fork [this repo](https://github.com/dmalvia/Mern_Stack_Url_Shortner_App).
-- Step 2: Clone your forked version of this repo locally. To clone, go to your command line / terminal, cd over to an appropriate directory and type in `git clone https://github.com/<your username>/url-shortener.git`.
+- Step 2: Clone your forked version of this repo locally. To clone, go to your command line / terminal, cd over to an appropriate directory and type in `git clone https://github.com/<your username>/Mern_Stack_Url_Shortner_App.git`.
 - Step 3: `cd client-app`
 - Step 4: While in the `client-app` directory, install the frontend dependencies using `npm install` or `yarn`.
 - Step 5: `cd server`
